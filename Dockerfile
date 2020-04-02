@@ -1,4 +1,4 @@
-FROM python:buster
+FROM python:2.7.17-buster
 MAINTAINER Nikolai R Kristiansen <nikolaik@gmail.com>
 
 # Install node prereqs, nodejs and yarn
