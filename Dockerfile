@@ -1,4 +1,4 @@
-FROM python:2.7.17-buster
+FROM python:2.7-slim-stretch
 MAINTAINER Nikolai R Kristiansen <nikolaik@gmail.com>
 
 # Install node prereqs, nodejs and yarn
